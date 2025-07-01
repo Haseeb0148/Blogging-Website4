@@ -16,5 +16,11 @@
     "url": "https://github.com/Haseeb0148/Blogging-Website4/issues"
   },
   "homepage": "https://github.com/Haseeb0148/Blogging-Website4#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.6.3",
+    "parcel": "^2.15.4",
+    "stylelint": "^16.21.0",
+    "stylelint-config-standard": "^38.0.0"
+  }
 }
